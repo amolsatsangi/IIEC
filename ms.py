@@ -1,4 +1,4 @@
-#Making a chatbot type program
+#########simple text based assitent
 
 print("Hey chat with me!")
 while(1):
