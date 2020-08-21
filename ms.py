@@ -16,9 +16,6 @@ while(1):
  elif((("RUN" in p)or("OPEN" in p)or("run" in p)or("open" in p)or("start" in p)or("START" in p))and(("notepad" in p)or("NOTEPAD" in p)or("WRITING PAD" in p)or("writing pad" in p))and(("not" not in p)and("NOT" not in p)and("don't" not in p)and("DON'T" not in p ))):
  	import os
  	os.system("notepad")
- elif((("RUN" in p)or("OPEN" in p)or("run" in p)or("open" in p)or("start" in p)or("START" in p))and(("notepad" in p)or("NOTEPAD" in p)or("WRITING PAD" in p)or("writing pad" in p))and(("not" not in p)and("NOT" not in p)and("don't" not in p)and("DON'T" not in p ))):
- 	import os
- 	os.system("notepad")
  elif((("RUN" in p)or("OPEN" in p)or("run" in p)or("open" in p)or("start" in p)or("START" in p))and(("control panel" in p)or("CONTROL PANEL" in p)or("panel" in p)or("PANEL" in p))and(("not" not in p)and("NOT" not in p)and("don't" not in p)and("DON'T" not in p ))):
  	import os
  	os.system("control panel")
